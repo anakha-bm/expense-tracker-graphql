@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "graphql": "^16.11.0",
+    "mongoose": "^8.16.2"
+  },
+  "name": "expense-tracker---gql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
